@@ -1,0 +1,56 @@
+body { background-image: url("https://m.popkey.co/dee3e0/Ep7Dm.gif")
+    
+}
+
+h1{ text-align:center;
+    color:grey;
+    font-family:Georgia, serif;
+}
+#num1 {
+    height: 50px;
+    width: 200px;
+    border-radius: 150px;
+    background-color:black;
+    float:right;
+    color:white;
+    
+}
+#num2 {
+    height: 50px;
+    width: 200px;
+    border-radius: 150px;
+    background-color:black;
+    float:right;
+    
+}
+ul {
+    font-family:Georgia, serif;
+    font-size: 30px;
+    color : purple ;
+    
+}
+#jtb {
+    height: 50px;
+    width :50px;
+    border-radius:50px;
+    background-color: purple;
+    
+}
+#lgcb {
+    height: 50px;
+    width :50px;
+    border-radius:50px;
+    background-color: purple;
+    
+    
+}
+img {
+    width: 200px;
+    height: 200px;
+    
+}
+#urr {
+    border-radius:50px;
+    color:white;
+    background-color: black;
+}
